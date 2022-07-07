@@ -6,7 +6,7 @@ Write Algorithm for running Wasdom ESP32
 # Requirements: 
 -	Install Arduino IDE
 -	Preparing the ESP32 Board in Arduino IDE 
-## Steps:
+### Steps:
 1. Plug the ESP32 to your PC or laptob by using micro cable.
 2. Then click on a file > preferences , put the package link to the esp32 https://dl.espressif.com/dl/package_esp32_index.json > ok
 3. Go to Tools > Board > Boards Manager > from the search bar write "esp32" > click on install.
