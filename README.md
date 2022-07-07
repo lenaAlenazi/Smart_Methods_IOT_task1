@@ -34,7 +34,6 @@ void loop() {
 
 Output sample for Task 1:
 
-https://user-images.githubusercontent.com/73249883/177695186-c9722693-514f-467c-a266-b29fee1470a1.png
 ![output task1 en](https://user-images.githubusercontent.com/73249883/177695659-965657c9-8e46-4ae6-b04b-53f392b746c3.png)
 
 ![output task1 ar](https://user-images.githubusercontent.com/73249883/177695538-4e470049-309c-4130-9211-f137020ac9ac.png)
