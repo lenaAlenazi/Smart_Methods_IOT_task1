@@ -39,8 +39,8 @@ Output sample for Task 1:
 ![output task1 ar](https://user-images.githubusercontent.com/73249883/177695538-4e470049-309c-4130-9211-f137020ac9ac.png)
 
 Output sample for Task 2:
- 
- [link](https://github.com/lenaAlenazi/Smart_Methods_IOT_task1/outputtask2.png) 
+![output task2](https://user-images.githubusercontent.com/73249883/177695811-bb6acd79-ecb5-41bb-ba4d-502cc0c68301.png)
+
 
 Learning references
 1.	https://www.youtube.com/watch?v=rwB6RqqCmXc&t=3s
