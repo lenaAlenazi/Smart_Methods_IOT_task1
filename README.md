@@ -1,5 +1,3 @@
-# Smart_Methods_IOT_task1
-This repository contains all the required tasks of week2 in IOT / Smart Methods.
 # Synopsis:
 ### TASK 1 :
  Web page Speech to text using html,css,javascript in both Arabic and English ( Example : https://s-m.com.sa/r2/test/ )
@@ -14,18 +12,35 @@ Write Algorithm for running Wasdom ESP32
 3. Go to Tools > Board > Boards Manager > from the search bar write "esp32" > click on install.
 4. Go to Tools > Board > select the name of your ESP32 board.
 5. Go to Tools > Port and select a COM port available.
-6. write the following code in arduion editor :
-![here](code in arduion.png)
+6. write the following code in arduion editor : 
+
+```C++
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
+```
 7.  Press the upload button.
 > NOTE : I USE https://wokwi.com/projects/new/esp32 TO MAKE SURE THE CODE WORK
 
 Output sample for Task 1:
- [here](output task1 ar.png)
-[here](output task1 en.png)
+
+ [link 1](https://github.com/lenaAlenazi/Smart_Methods_IOT_task1/outputtask1ar.png) 
+
+ [link 2](https://github.com/lenaAlenazi/Smart_Methods_IOT_task1/outputtask1en.png) 
  
 Output sample for Task 2:
  
-![here ..](output task2.png)
+ [link](https://github.com/lenaAlenazi/Smart_Methods_IOT_task1/outputtask2.png) 
 
 Learning references
 1.	https://www.youtube.com/watch?v=rwB6RqqCmXc&t=3s
