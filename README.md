@@ -1,3 +1,4 @@
+This repository contains all the required tasks of training with Smart Methods/IOT week 2.
 # Synopsis:
 ### TASK 1 :
  Web page Speech to text using html,css,javascript in both Arabic and English ( Example : https://s-m.com.sa/r2/test/ )
@@ -8,7 +9,7 @@ Write Algorithm for running Wasdom ESP32
 -	Preparing the ESP32 Board in Arduino IDE 
 ### Steps:
 1. Plug the ESP32 to your PC or laptob by using micro cable.
-2. Then click on a file > preferences , put the package link to the esp32 https://dl.espressif.com/dl/package_esp32_index.json > ok
+2. Go to file > preferences , put the package link to the esp32 https://dl.espressif.com/dl/package_esp32_index.json > ok
 3. Go to Tools > Board > Boards Manager > from the search bar write "esp32" > click on install.
 4. Go to Tools > Board > select the name of your ESP32 board.
 5. Go to Tools > Port and select a COM port available.
