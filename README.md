@@ -46,10 +46,9 @@ void loop() {
 1.	https://www.youtube.com/watch?v=rwB6RqqCmXc&t=3s
 2.	https://www.youtube.com/watch?v=_eXEfX1KToo&t=105s
 3.	https://www.w3schools.com/css/default.asp
-4.	https://www.w3schools.com/html/default.asp
-5.	https://www.w3schools.com/js/default.asp
-6.	https://www.youtube.com/watch?v=mBaS3YnqDaU&t=10s
-7.	https://www.youtube.com/watch?v=h8iHRy48a8I
-
+4.	https://www.w3schools.com/js/default.asp
+5.	https://www.youtube.com/watch?v=mBaS3YnqDaU&t=10s
+6.	https://www.youtube.com/watch?v=h8iHRy48a8I
+ 
 
 
