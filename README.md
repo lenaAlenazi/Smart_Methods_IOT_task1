@@ -34,7 +34,7 @@ void loop() {
 
 Output sample for Task 1:
 
- [link 1](https://github.com/lenaAlenazi/Smart_Methods_IOT_task1/outputtask1ar.png) 
+https://user-images.githubusercontent.com/73249883/177695186-c9722693-514f-467c-a266-b29fee1470a1.png
 
  [link 2](https://github.com/lenaAlenazi/Smart_Methods_IOT_task1/outputtask1en.png) 
  
