@@ -1,9 +1,10 @@
 
 # Synopsis:
 ### TASK 1 :
- Web page Speech to text using html,css,javascript in both Arabic and English ( Example : https://s-m.com.sa/r2/test/ )
+  Speech to text using html,css,javascript in both Arabic and English ( Example : https://s-m.com.sa/r2/test/ ) 
+  using the Web Speech Recognition API, use the SpeechRecognition object to convert the speech into text and then display the text on the screen, also added WebKit Speech Recognition to perform speech recognition in Google chrome 
 ###  TASK 2 : 
-Write Algorithm for running Wasdom ESP32
+Write Algorithm for running Wasdom ESP32, can be programmed directly from the Arduino IDE, configure ESP32 in Arduino IDE and program it to Blink an LED
 # Requirements: 
 -	Install Arduino IDE
 -	Preparing the ESP32 Board in Arduino IDE 
@@ -50,6 +51,7 @@ void loop() {
 4.	https://www.w3schools.com/js/default.asp
 5.	https://www.youtube.com/watch?v=mBaS3YnqDaU&t=10s
 6.	https://www.youtube.com/watch?v=h8iHRy48a8I
+7.	https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
  
 
 
