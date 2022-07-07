@@ -3,7 +3,7 @@
  Web page Speech to text using html,css,javascript in both Arabic and English ( Example : https://s-m.com.sa/r2/test/ )
 ###  TASK 2 : 
 Write Algorithm for running Wasdom ESP32
-## Requirements: 
+# Requirements: 
 -	Install Arduino IDE
 -	Preparing the ESP32 Board in Arduino IDE 
 ## Steps:
