@@ -32,13 +32,13 @@ void loop() {
 7.  Press the upload button.
 > NOTE : I USE https://wokwi.com/projects/new/esp32 TO MAKE SURE THE CODE WORK
 
-###Output sample for Task 1:
+### Output sample for Task 1:
 
 ![output task1 en](https://user-images.githubusercontent.com/73249883/177695659-965657c9-8e46-4ae6-b04b-53f392b746c3.png)
 
 ![output task1 ar](https://user-images.githubusercontent.com/73249883/177695538-4e470049-309c-4130-9211-f137020ac9ac.png)
 
-###Output sample for Task 2:
+### Output sample for Task 2:
 ![output task2](https://user-images.githubusercontent.com/73249883/177695811-bb6acd79-ecb5-41bb-ba4d-502cc0c68301.png)
 
 
