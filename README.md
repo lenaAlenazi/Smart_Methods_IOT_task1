@@ -1,4 +1,4 @@
-This repository contains all the required tasks of training with Smart Methods/IOT week 2.
+
 # Synopsis:
 ### TASK 1 :
  Web page Speech to text using html,css,javascript in both Arabic and English ( Example : https://s-m.com.sa/r2/test/ )
